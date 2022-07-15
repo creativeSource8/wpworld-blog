@@ -35,7 +35,7 @@
 
 				<div class="col-sm-6 col-md-6 height-100p bounceInLeft wow" data-wow-duration="1.3s" data-wow-delay="0.3s" data-stellar-ratio="0.7">
 					<div class="vertical-middle">
-						<h1 class="text-white">Laravel<span class="text-theme">入门和开发CMS</span></h1>
+						<h1 class="text-white">Laravel<span class="text-theme">入门到开发CMS</span></h1>
 						<div class="text-white h4">
 							
 						</div>
@@ -63,7 +63,7 @@
 
 				<div class="col-sm-6 col-md-6 height-100p bounceInLeft wow" data-wow-duration="1.3s" data-wow-delay="0.3s" data-stellar-ratio="0.7">
 					<div class="vertical-middle">
-						<h1 class="text-white">Laravel<span class="text-theme">入门和开发CMS</span></h1>
+						<h1 class="text-white">Laravel<span class="text-theme">入门到开发CMS</span></h1>
 						<div class="text-white h4">
 							
 						</div>
